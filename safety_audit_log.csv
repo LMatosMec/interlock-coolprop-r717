@@ -1,0 +1,14 @@
+Timestamp,P_Suc(Bar),T_Suc(C),Superheat(K),Status_Valvula,Motivo_Intertravamento
+2026-06-29 18:34:16,2.91,-5.15,4.79,FECHADA (0%),Risco de Golpe de Líquido (SH=4.79K < 10K)
+2026-06-29 18:34:18,2.92,3.58,13.46,ABERTA,Operação Segura
+2026-06-29 18:34:20,2.92,-8.0,1.86,FECHADA (0%),Risco de Golpe de Líquido (SH=1.86K < 10K)
+2026-06-29 18:34:22,3.05,-2.55,6.28,FECHADA (0%),Risco de Golpe de Líquido (SH=6.28K < 10K)
+2026-06-29 18:34:24,2.97,-3.54,5.94,FECHADA (0%),Risco de Golpe de Líquido (SH=5.94K < 10K)
+2026-06-29 18:34:26,2.91,4.77,14.72,ABERTA,Operação Segura
+2026-06-29 18:34:28,3.06,4.69,13.43,ABERTA,Operação Segura
+2026-06-29 18:34:30,2.94,-2.84,6.84,FECHADA (0%),Risco de Golpe de Líquido (SH=6.84K < 10K)
+2026-06-29 18:34:32,2.99,-6.16,3.14,FECHADA (0%),Risco de Golpe de Líquido (SH=3.14K < 10K)
+2026-06-29 18:34:34,3.02,-2.63,6.38,FECHADA (0%),Risco de Golpe de Líquido (SH=6.38K < 10K)
+2026-06-29 18:34:36,2.98,-8.56,0.84,FECHADA (0%),Risco de Golpe de Líquido (SH=0.84K < 10K)
+2026-06-29 18:34:38,2.99,-4.9,4.37,FECHADA (0%),Risco de Golpe de Líquido (SH=4.37K < 10K)
+2026-06-29 18:34:40,2.97,1.7,11.16,ABERTA,Operação Segura
